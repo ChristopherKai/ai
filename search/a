@@ -1,0 +1,3 @@
+Help on method push in module util:
+
+ppuusshh(self, item, priority) method of util.PriorityQueue instance
